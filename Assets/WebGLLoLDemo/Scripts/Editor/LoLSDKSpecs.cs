@@ -153,7 +153,7 @@ namespace LoL.Editor
 
         long GetBrotliOriginalSize (FileInfo fileInfo)
         {
-            using var zipStream = new BrotliStream(fileInfo.OpenRead(), CompressionMode.Decompress);
+            using var zipStream = new BrotliSharpLib.BrotliStream(fileInfo.OpenRead(), CompressionMode.Decompress);
             return StreamToLength(zipStream);
         }
 
