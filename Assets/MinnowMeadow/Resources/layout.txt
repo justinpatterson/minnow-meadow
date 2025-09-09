@@ -1,0 +1,6 @@
+Forest,Soil,Forest
+Soil,Soil,Forest
+Soil,Forest,Soil
+Forest,Village,Forest
+Shore,Shore,Shore
+Ocean,Ocean,Ocean

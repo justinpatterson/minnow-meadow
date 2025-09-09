@@ -1,0 +1,6 @@
+Forest,Soil,Soil,Sapling,Sapling,Soil,Soil,Forest
+Forest,Forest,Forest,Soil,Soil,Forest,Soil,Soil
+Soil,Forest,Soil,Soil,Soil,Soil,Soil,Soil
+Soil,Forest,Village,Forest,Soil,Forest,Forest,Forest
+Shore,Shore,Shore,Shore,Shore,Shore,Shore,Shore
+Ocean,Ocean,Ocean,Ocean,Ocean,Ocean,Ocean,Ocean
